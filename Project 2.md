@@ -1,4 +1,4 @@
-#RTOS-Based Multi-Tasking System: Sensor Fusion & Sound Detection
+# RTOS-Based Multi-Tasking System: Sensor Fusion & Sound Detection
 
 A high-performance embedded system built on the STM32F401 (Cortex-M4) using FreeRTOS for preemptive multi-tasking. The system integrates real-time accelerometer data processing via I2C.
 
